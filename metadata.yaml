@@ -1,0 +1,24 @@
+_repo: Recipes-for-Eatmor-Fresh-Cranberries_34185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34185-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eatmor Cranberries
+    gutenberg_agent_id: '36860'
+    url: http://www.gutenberg.org/2009/agents/36860
+description: ''
+gutenberg_issued: '2010-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking (Cranberries)'
+title: Recipes for Eatmor Fresh Cranberries
+url: http://www.gutenberg.org/ebooks/34185
